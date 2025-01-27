@@ -60,3 +60,8 @@ Usage of the tool for attacking targets without prior mutual consent is illegal.
 <a href="https://rzp.io/l/mrbee"><img title="DONATE" src="https://img.shields.io/badge/DONATE-yellow?style=for-the-badge&logo=google-pay"></a>
 <a href="https://blockchain.com/btc/payment_request?address=3FH8UiVVKE5RkCaoaJ9Drr33Dg9L9FtsAq&amount=0.00008703&message=DONATE"><img title="Bitcoin" src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white"></a>
 </p>  
+git clone https://github.com/bhikandeshmukh/instainsane.git
+cd instainsane
+chmod +x instainsane.sh
+sudo ./instainsane.shchmod +x install.sh
+sudo ./install.sh
